@@ -1,3 +1,3 @@
 # 631RWDwebsite
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Thomaslica/631RWDwebsite)
+This is for NAU project for creating responsive personal portfolio website built with React, TypeScript, and Tailwind CSS.
